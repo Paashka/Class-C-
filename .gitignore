@@ -1,0 +1,20 @@
+# C++ build artifacts
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Build directory
+build/
+
+# IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+*.sln
+*.sdf
+*.opensdf
+*.cache
